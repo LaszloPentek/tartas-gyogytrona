@@ -1,9 +1,5 @@
-# Kiválasztott koncepció
+# Kiválasztott dizájn
 
-A felhasználó az 1. koncepciót, a **Szabad mozdulat** irányt választotta a további munkához.
+A felhasználó döntése: 1. koncepció (Szabad mozdulat) kinézete, elrendezése és stílusa, a 2. koncepció (Érthető lépések) színeivel. A részletek a gyökérben lévő design-system.md fájlban találhatók.
 
-- Kiinduló oldal: `koncepcio-1-szabad-mozdulat.html`
-- Hangulat: természetes, nyugodt és személyes; tágas, puha formák és zöld árnyalatok.
-- Színek: főszín #2F5C49, másodlagos #B4C8A8, kiemelő #E0CB89, háttér #F8FAF5, felület #EAF0E5, szöveg #203B30, másodlagos szöveg #536659.
-- Tipográfia: Lora címsorokhoz, Manrope törzsszöveghez.
-- A további oldalak vizuális alapja ez a koncepció. A részletes tartalom és a ténylegesen működő űrlap külön kidolgozandó; a jelenlegi űrlap demó.
+A 2. koncepció tipográfiájának átvételét nem kérte; az 1. Lora–Manrope betűpárosa marad.

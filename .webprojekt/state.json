@@ -1,5 +1,5 @@
 {
-  "phase": "direction_selected",
+  "phase": "selected_site_prepared",
   "direction_count": 3,
   "is_redesign": false,
   "source_url": null,
@@ -7,5 +7,7 @@
   "brief_approved_for_prototypes": false,
   "brief_note": "A felhasználó a három prototípus készítését kifejezetten kérte; külön briefjóváhagyást nem adott.",
   "selected_direction": 1,
-  "selected_direction_name": "Szabad mozdulat"
+  "selected_direction_name": "Szabad mozdulat",
+  "selected_palette_direction": 2,
+  "selected_layout_direction": 1
 }
