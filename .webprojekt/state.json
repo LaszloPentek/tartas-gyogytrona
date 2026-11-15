@@ -1,9 +1,11 @@
 {
-  "phase": "prototypes_complete",
+  "phase": "direction_selected",
   "direction_count": 3,
   "is_redesign": false,
   "source_url": null,
   "authorization": "A felhasználó kifejezetten három koncepciós oldal elkészítését kérte.",
   "brief_approved_for_prototypes": false,
-  "brief_note": "A felhasználó a három prototípus készítését kifejezetten kérte; külön briefjóváhagyást nem adott."
+  "brief_note": "A felhasználó a három prototípus készítését kifejezetten kérte; külön briefjóváhagyást nem adott.",
+  "selected_direction": 1,
+  "selected_direction_name": "Szabad mozdulat"
 }
