@@ -1,0 +1,101 @@
+{
+  "directions": [
+    {
+      "id": 1,
+      "slug": "szabad-mozdulat",
+      "name": "Szabad mozdulat",
+      "description": "Természetes, nyugodt stúdióhangulat: aszimmetrikus osztott hero, nagy nyújtásfotó, puha sarkok, zöld szekció, tágas ritmus.",
+      "rationale": "A személyes figyelmet és az első alkalom nyugalmát hangsúlyozza.",
+      "palette": {
+        "primary": "#2F5C49",
+        "secondary": "#B4C8A8",
+        "accent": "#E0CB89",
+        "bg": "#F8FAF5",
+        "surface": "#EAF0E5",
+        "text": "#203B30",
+        "muted": "#536659"
+      },
+      "fonts": {
+        "heading": {
+          "family": "Lora",
+          "fallback": "Georgia, serif"
+        },
+        "body": {
+          "family": "Manrope",
+          "fallback": "system-ui, sans-serif"
+        },
+        "google_fonts_url": "https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&family=Manrope:wght@400;500;600;700&display=swap"
+      },
+      "contrast_axes": {
+        "hero": "split photographic",
+        "density": "spacious",
+        "shape": "soft irregular"
+      }
+    },
+    {
+      "id": 2,
+      "slug": "ertheto-lepesek",
+      "name": "Érthető lépések",
+      "description": "Tipográfiai hero, karakteres petrol szín, jobb oldali kompakt elsőalkalom-panel, alatta széles kezelési fotósáv. Strukturált kezeléslista és lépésről lépésre folyamat.",
+      "rationale": "Az érthetőség és a szakmai bizalom csökkenti az első időpontkérés bizonytalanságát.",
+      "palette": {
+        "primary": "#15566A",
+        "secondary": "#BCDDE5",
+        "accent": "#D6E7AD",
+        "bg": "#F5FAFC",
+        "surface": "#E5F0F5",
+        "text": "#143B49",
+        "muted": "#4D6873"
+      },
+      "fonts": {
+        "heading": {
+          "family": "Sora",
+          "fallback": "system-ui, sans-serif"
+        },
+        "body": {
+          "family": "Source Sans 3",
+          "fallback": "system-ui, sans-serif"
+        },
+        "google_fonts_url": "https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700&family=Source+Sans+3:wght@400;500;600;700&display=swap"
+      },
+      "contrast_axes": {
+        "hero": "typographic and wide photo",
+        "density": "balanced",
+        "shape": "precise geometric"
+      }
+    },
+    {
+      "id": 3,
+      "slug": "hely-a-mozgasnak",
+      "name": "Hely a mozgásnak",
+      "description": "Szilva és levendula, nagy serif tipó, széles fotóra helyezett világos szövegtábla. Aszimmetrikus magazinszerű történetmesélés, mozgásfotók és nyitott szövegblokkok.",
+      "rationale": "A hétköznapi mozgás örömét és a személyes, emberi megközelítést emeli ki.",
+      "palette": {
+        "primary": "#634A68",
+        "secondary": "#D9CFDF",
+        "accent": "#BDCFBB",
+        "bg": "#FCFAFD",
+        "surface": "#EFE9F2",
+        "text": "#392D3F",
+        "muted": "#6B5C71"
+      },
+      "fonts": {
+        "heading": {
+          "family": "Bodoni Moda",
+          "fallback": "Georgia, serif"
+        },
+        "body": {
+          "family": "Nunito Sans",
+          "fallback": "system-ui, sans-serif"
+        },
+        "google_fonts_url": "https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@400;500;600;700&family=Nunito+Sans:wght@400;500;600;700&display=swap"
+      },
+      "contrast_axes": {
+        "hero": "full width image with inset panel",
+        "density": "airy editorial",
+        "shape": "square and arch mixed"
+      }
+    }
+  ],
+  "total": 3
+}
